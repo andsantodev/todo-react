@@ -7,5 +7,4 @@ Praticando React com um ToDo simples
 
 <br>
 Referência: <br>
-Projeto de React e SASS para o seu portfólio <br>
 https://www.youtube.com/watch?v=pOVyVivyfok&t=124s
